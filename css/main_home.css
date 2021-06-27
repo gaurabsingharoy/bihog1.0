@@ -1,0 +1,129 @@
+#fsbg1 {
+	width: 100%;
+	position: fixed;
+	z-index: -100;
+	left: 0px;
+	top: 0px;
+	min-height: 100%;
+	min-width: 1040px;
+}
+.banner {
+	height: auto;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 15px;
+}
+.banner #logo {
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+.banner a #logo {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.main_content {
+	height: auto;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 410px;
+}
+#slideshow { 
+    position: relative;  
+	height: auto;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#slideshow div {
+		
+	position: absolute;
+	height: auto;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#left_col {
+	height: 310px;
+	width: 310px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	background-color: #FF537E;
+	float: left;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 1.3em;
+	line-height: 1.2em;
+	color: #91002F;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	font-weight: lighter;
+}
+#centre_col {
+	background-color: #BA5EDB;
+	height: 310px;
+	width: 300px;
+	float: right;
+	margin-top: 15px;
+	margin-right: 10px;
+	margin-bottom: 15px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 1.3em;
+	line-height: 1.2em;
+	color: #FFF;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	font-weight: lighter;
+}
+#right_col {
+	float: right;
+	height: 310px;
+	width: 310px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	background-color: #FFFFFF;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 1.3em;
+	line-height: 1.2em;
+	color: #666;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	font-weight: lighter;
+}
+.main_content #left_col p strong {
+	font-size: 2em;
+	font-weight: lighter;
+	padding-right: 6px;
+	color: #FFF;
+	font-style: oblique;
+	padding-bottom: 2px;
+}
+.main_content #right_col p strong a {
+	font-size: 1.6em;
+	font-weight: lighter;
+	color: #93C;
+	text-decoration: none;
+	font-style: oblique;
+	padding-bottom: 2px;
+}
+.main_content #right_col p a {
+	text-decoration: none;
+	color: #BA5EDB;
+}
+
+.footer {
+	clear: both;
+	background-color: #FFF;
+	height: 50px;
+	opacity: .4;
+	filter: alpha(opacity=40);
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 0.9em;
+	color: #000;
+}

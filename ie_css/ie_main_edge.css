@@ -1,0 +1,18 @@
+@charset "utf-8";
+.main_content #row_1 h2 {
+	font-size: 1.5em;
+	font-weight: lighter;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin-top: 10px;
+}
+.main_content #banner {
+	margin-bottom: 0px;
+}
+
+.main_content #row_9 h2 {
+	padding-top: 10px;
+}
+
+.main_content #row_9 h2 strong {
+	font-size: 6em;
+}

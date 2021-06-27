@@ -1,0 +1,26 @@
+.footer ul {
+	margin-left: 844px;
+}
+.footer ul li {
+	float: left;
+	list-style-type: none;
+	margin-top: 10px;
+}
+.footer ul li a {
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #666;
+}
+.footer ul li a:link, .footer ul li a:visited {
+	color: #9C5448;
+	text-decoration: none;
+}
+.footer ul li a:hover, .footer ul li a:active {
+	color: #FFF;
+	text-decoration: none;
+	background-color: #9C5448;
+}
